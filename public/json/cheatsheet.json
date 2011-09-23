@@ -1,5 +1,5 @@
 [
-  [ "Install jitsu", "<pre><code>[sudo] npm update npm -g\nnpm install jitsu</code></pre>"],
+  [ "Install jitsu", "<pre><code>[sudo] npm update npm -g\n[sudo] npm install jitsu -g</code></pre>"],
   [ "Sign up for Nodejitsu", "jitsu signup" ],
   [ "Deploy an app", "<code>jitsu deploy</code>"],
   [ "Requisition a database", "<code>jitsu databases create</code>" ],
