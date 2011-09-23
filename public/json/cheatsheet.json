@@ -1,4 +1,6 @@
 [
+  [ "Install jitsu", "<pre><code>[sudo] npm update npm -g\nnpm install jitsu</code></pre>"],
+  [ "Sign up for Nodejitsu", "jitsu signup" ],
   [ "Deploy an app", "<code>jitsu deploy</code>"],
   [ "Requisition a database", "<code>jitsu databases create</code>" ],
   [ "Reset my forgotten password", "<code>jitsu users forgot :username</code>" ]
