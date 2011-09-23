@@ -1,0 +1,5 @@
+[
+  [ "Deploy an app", "<code>jitsu deploy</code>"],
+  [ "Requisition a database", "<code>jitsu databases create</code>" ],
+  [ "Reset my forgotten password", "<code>jitsu users forgot :username</code>" ]
+]
