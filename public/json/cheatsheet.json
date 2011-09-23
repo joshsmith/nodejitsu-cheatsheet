@@ -4,5 +4,5 @@
   [ "Deploy an app", "<code>jitsu deploy</code>"],
   [ "Requisition a database", "<code>jitsu databases create</code>" ],
   [ "Reset my forgotten password", "<code>jitsu users forgot :username</code>" ],
-  [ "Get an item on the cheatsheet", "See <a href=''>http://github.com/jesusabdullah/nodejitsu-cheatsheet</a>."
+  [ "Get an item on the cheatsheet", "See <a href=''>http://github.com/jesusabdullah/nodejitsu-cheatsheet</a>."]
 ]
