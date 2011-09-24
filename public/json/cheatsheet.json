@@ -1,8 +1,8 @@
 [
-  [ "Install jitsu", "<code>[sudo] npm install npm -g</code><br><br><code>[sudo] npm install jitsu -g</code>"],
-  [ "Sign up for Nodejitsu", "<code>jitsu signup</code>" ],
-  [ "Deploy an app", "<code>jitsu deploy</code>"],
-  [ "Requisition a database", "<code>jitsu databases create</code>" ],
-  [ "Reset my forgotten password", "<code>jitsu users forgot :username</code>" ],
+  [ "Install jitsu", "<pre>[sudo] npm install npm -g\n[sudo] npm install jitsu -g</pre>"],
+  [ "Sign up for Nodejitsu", "<pre>jitsu signup</pre>" ],
+  [ "Deploy an app", "<pre>jitsu deploy</pre>"],
+  [ "Requisition a database", "<pre>jitsu databases create</pre>" ],
+  [ "Reset my forgotten password", "<pre>jitsu users forgot :username</pre>" ],
   [ "Get an item on the cheatsheet", "See <a href='https://github.com/jesusabdullah/nodejitsu-cheatsheet'>the project on github</a>."]
 ]
