@@ -1,9 +1,18 @@
 {
+  "name": "cheatsheet",
+  "subdomain": "cheatsheet",
   "scripts": {
     "start": "bin/server"
   },
-  "version": "0.0.0",
+  "version": "0.0.0-15",
   "dependencies": {
-    "http-server": "*"
+    "http-server": "v0.2.x",
+    "colors": "*",
+    "optimist": "*",
+    "wordwrap": "*"
+  },
+  "env": {
+    "NODE_ENV": "production",
+    "SUBDOMAIN": "cheatsheet"
   }
 }
