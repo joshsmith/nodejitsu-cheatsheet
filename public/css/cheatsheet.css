@@ -63,6 +63,7 @@ header div a:hover {
 
 header div.title {
   font-size: 28px;
+  padding-top: 10px;
 }
 
 header div.link {
